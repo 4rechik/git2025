@@ -1,5 +1,5 @@
 def main():
-	pass
+	print("Text")
 
 if __name__ == '__main__':
 	main()
